@@ -534,8 +534,6 @@ Seluruh halaman menggunakan layout 2 kolom yang sama:
 > 🔗 **URL Figma (Design File):**
 > [https://www.figma.com/design/n228dBghpdXF1MbBAGA1Gw/Untitled?node-id=0-1&t=9hiSfuRVyJI0tkXk-1](https://www.figma.com/design/n228dBghpdXF1MbBAGA1Gw/Untitled?node-id=0-1&t=9hiSfuRVyJI0tkXk-1)
 >
-> 🔗 **URL Figma (Prototype):**
-> [https://www.figma.com/proto/n228dBghpdXF1MbBAGA1Gw/Untitled?node-id=2-5&t=rdJN9QZm3UAbo3eE-1&scaling=contain&content-scaling=fixed&page-id=0%3A1](https://www.figma.com/proto/n228dBghpdXF1MbBAGA1Gw/Untitled?node-id=2-5&t=rdJN9QZm3UAbo3eE-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 >
 > Mode: **View Only**
 
@@ -544,16 +542,15 @@ Seluruh halaman menggunakan layout 2 kolom yang sama:
 Berikut embed screenshot dari hasil desain Figma yang menjadi acuan implementasi:
 
 ### Dashboard
-![Figma — Dashboard Desktop](../assets/img/figma/02-dashboard-desktop.png)
+<img width="460" height="399" alt="Screenshot 2026-09-15 193119" src="https://github.com/user-attachments/assets/23e26789-5a44-4ce1-b681-d2baa363083a" />
 
 ### Data Pendaftar
-![Figma — Data Pendaftar](../assets/img/figma/03-data-pendaftar.png)
-
+<img width="335" height="242" alt="Screenshot 2026-09-15 193548" src="https://github.com/user-attachments/assets/60c27ceb-418e-416e-8a28-4335ae97331f" />
 ### Verifikasi Berkas
-![Figma — Verifikasi Berkas](../assets/img/figma/05-verifikasi-berkas.png)
+<img width="336" height="240" alt="Screenshot 2026-09-15 193608" src="https://github.com/user-attachments/assets/11759334-3faf-4804-97b4-dcafdc386afa" />
 
 ### Seleksi & Kelulusan
-![Figma — Seleksi & Kelulusan](../assets/img/figma/04-seleksi-kelulusan.png)
+<img width="334" height="240" alt="Screenshot 2026-09-15 193627" src="https://github.com/user-attachments/assets/207cc7f1-a9a1-46c3-aa56-83afe2334e27" />
 
 ## 9.3 🧵 Stitch by Google
 
