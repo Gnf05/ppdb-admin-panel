@@ -366,8 +366,8 @@ Berikut adalah hasil desain **High-Fidelity** dari Figma untuk setiap halaman ut
 
 ## 7.1 Dashboard (Desktop)
 
-![Figma — Dashboard Desktop](../assets/img/figma/02-dashboard-desktop.png)
-<img width="608" height="413" alt="Screenshot 2026-09-13 191051" src="https://github.com/user-attachments/assets/d40bd4fa-49ca-443c-bd2e-871b7b7fc226" />
+<img width="460" height="399" alt="Screenshot 2026-09-15 193119" src="https://github.com/user-attachments/assets/23e26789-5a44-4ce1-b681-d2baa363083a" />
+
 
 **Komponen yang ditampilkan:**
 
@@ -383,7 +383,8 @@ Berikut adalah hasil desain **High-Fidelity** dari Figma untuk setiap halaman ut
 
 ## 7.2 Data Pendaftar
 
-![Figma — Halaman Data Pendaftar](../assets/img/figma/03-data-pendaftar.png)
+<img width="335" height="242" alt="Screenshot 2026-09-15 193548" src="https://github.com/user-attachments/assets/60c27ceb-418e-416e-8a28-4335ae97331f" />
+
 
 **Komponen yang ditampilkan:**
 
@@ -400,7 +401,8 @@ Berikut adalah hasil desain **High-Fidelity** dari Figma untuk setiap halaman ut
 
 ## 7.3 Verifikasi Berkas
 
-![Figma — Halaman Verifikasi Berkas](../assets/img/figma/05-verifikasi-berkas.png)
+<img width="336" height="240" alt="Screenshot 2026-09-15 193608" src="https://github.com/user-attachments/assets/11759334-3faf-4804-97b4-dcafdc386afa" />
+
 
 **Komponen yang ditampilkan:**
 
@@ -418,8 +420,8 @@ Berikut adalah hasil desain **High-Fidelity** dari Figma untuk setiap halaman ut
 ---
 
 ## 7.4 Seleksi & Kelulusan
+<img width="334" height="240" alt="Screenshot 2026-09-15 193627" src="https://github.com/user-attachments/assets/207cc7f1-a9a1-46c3-aa56-83afe2334e27" />
 
-![Figma — Halaman Seleksi & Kelulusan](../assets/img/figma/04-seleksi-kelulusan.png)
 
 **Komponen yang ditampilkan:**
 
