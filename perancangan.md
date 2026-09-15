@@ -546,23 +546,12 @@ Berikut embed screenshot dari hasil desain Figma yang menjadi acuan implementasi
 
 ### Data Pendaftar
 <img width="335" height="242" alt="Screenshot 2026-09-15 193548" src="https://github.com/user-attachments/assets/60c27ceb-418e-416e-8a28-4335ae97331f" />
+
 ### Verifikasi Berkas
 <img width="336" height="240" alt="Screenshot 2026-09-15 193608" src="https://github.com/user-attachments/assets/11759334-3faf-4804-97b4-dcafdc386afa" />
 
 ### Seleksi & Kelulusan
 <img width="334" height="240" alt="Screenshot 2026-09-15 193627" src="https://github.com/user-attachments/assets/207cc7f1-a9a1-46c3-aa56-83afe2334e27" />
-
-## 9.3 🧵 Stitch by Google
-
-> **Stitch by Google — Hasil Rancangan**
->
-> 🔗 **URL Stitch:** `[TEMPEL LINK STITCH DI SINI]`
->
-> Screenshot Stitch:
->
-> <!-- Uncomment & ganti path setelah menambahkan file screenshot Stitch -->
-> <!-- ![Stitch - Dashboard](../assets/img/stitch-dashboard.png) -->
-> <!-- ![Stitch - Data Pendaftar](../assets/img/stitch-pendaftar.png) -->
 
 ---
 
