@@ -367,6 +367,7 @@ Berikut adalah hasil desain **High-Fidelity** dari Figma untuk setiap halaman ut
 ## 7.1 Dashboard (Desktop)
 
 ![Figma — Dashboard Desktop](../assets/img/figma/02-dashboard-desktop.png)
+<img width="608" height="413" alt="Screenshot 2026-09-13 191051" src="https://github.com/user-attachments/assets/d40bd4fa-49ca-443c-bd2e-871b7b7fc226" />
 
 **Komponen yang ditampilkan:**
 
