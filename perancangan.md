@@ -31,7 +31,7 @@
 6. [Design System (Figma)](#6-design-system-figma)
 7. [High-Fidelity UI Design (Figma)](#7-high-fidelity-ui-design-figma)
 8. [Penjelasan Tata Letak per Halaman](#8-penjelasan-tata-letak-per-halaman)
-9. [Link Publik Figma & Stitch](#9-link-publik-figma--stitch)
+9. [Link Publik Figma ](#9-link-publik-figma-)
 
 ---
 
@@ -525,7 +525,7 @@ Seluruh halaman menggunakan layout 2 kolom yang sama:
 
 ---
 
-# 9. Link Publik Figma & Stitch
+# 9. Link Publik Figma 
 
 ## 9.1 🎨 Link Figma — High-Fidelity Design
 
