@@ -31,7 +31,7 @@
 6. [Design System (Figma)](#6-design-system-figma)
 7. [High-Fidelity UI Design (Figma)](#7-high-fidelity-ui-design-figma)
 8. [Penjelasan Tata Letak per Halaman](#8-penjelasan-tata-letak-per-halaman)
-9. [Link Publik Figma ](#9-link-publik-figma-)
+9. [Link Publik Figma & stitch](#9-link-publik-figma&stitch-)
 
 ---
 
@@ -533,6 +533,8 @@ Seluruh halaman menggunakan layout 2 kolom yang sama:
 >
 > 🔗 **URL Figma (Design File):**
 > [https://www.figma.com/design/n228dBghpdXF1MbBAGA1Gw/Untitled?node-id=0-1&t=9hiSfuRVyJI0tkXk-1](https://www.figma.com/design/n228dBghpdXF1MbBAGA1Gw/Untitled?node-id=0-1&t=9hiSfuRVyJI0tkXk-1)
+    ** STITCH **
+    https://stitch.google.com/projects/6779886712315902541
 >
 >
 > Mode: **View Only**
