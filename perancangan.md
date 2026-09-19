@@ -527,13 +527,13 @@ Seluruh halaman menggunakan layout 2 kolom yang sama:
 
 # 9. Link Publik Figma 
 
-## 9.1 🎨 Link Figma — High-Fidelity Design
+## 9.1 🎨 Link Figma & Stitch — High-Fidelity Design
 
 > **Figma Project — PPDB Admin Panel**
 >
 > 🔗 **URL Figma (Design File):**
 > [https://www.figma.com/design/n228dBghpdXF1MbBAGA1Gw/Untitled?node-id=0-1&t=9hiSfuRVyJI0tkXk-1](https://www.figma.com/design/n228dBghpdXF1MbBAGA1Gw/Untitled?node-id=0-1&t=9hiSfuRVyJI0tkXk-1)
-    ** STITCH **
+> ** STITCH **
     https://stitch.google.com/projects/6779886712315902541
 >
 >
